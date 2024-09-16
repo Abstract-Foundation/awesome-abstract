@@ -5,7 +5,7 @@
                 <img src="https://pbs.twimg.com/profile_images/1816175731203862528/OCtFkZbn_400x400.jpg" width="180" alt="Abstract">    
             </div>    
             <br>
-                <b> A collection list of awesome development resources, boilerplates and technical documentation related to Abstract. </b>    
+                <b> A collection of awesome development resources, boilerplates and technical documentation related to Abstract. </b>    
             </br>
         </a>    
     </p>    
