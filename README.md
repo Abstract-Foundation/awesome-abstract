@@ -54,12 +54,14 @@ Cube Labs, together with the Pudgy Penguins team, are joining forces to contribu
 - [Smart Contract Accounts Viem](https://github.com/Abstract-Foundation/examples/tree/main/smart-contract-accounts-viem)
 - [Smart Contract Accounts](https://github.com/Abstract-Foundation/examples/tree/main/smart-contract-accounts)
 
-## Crypto Educational Hub (in progress)
+## Educational Hub
 
 - What is a Blockchain?
 - What is a Smart Contract + Writing your first Smart Contract
 - What is DeFi?
 - What is a Zero Knowledge Proof?
+- [What is a Wallet](https://abs.xyz/blog/articles/what-is-a-wallet)
+- [How Passkey Wallets Work](https://abs.xyz/blog/articles/how-passkey-wallets-work)
 
 ## Community and Socials
 
