@@ -63,11 +63,14 @@ Cube Labs, together with the Pudgy Penguins team, are joining forces to contribu
 ## Community and Socials
 
 - [Twitter](https://twitter.com/abstractchain)
+- [Twitter_Ecosystem](https://x.com/Abstract_Eco)
 - [YouTube](https://www.youtube.com/@AbstractBlockchain/videos)
 - [YouTube LATAM](https://www.youtube.com/@AbstractLatam)
 - [Blog](https://abs.xyz/blog)
 - [Discord](https://discord.com/invite/abstractchain)
 - [Telegram](https://t.me/abstract_chain)
+- [Instagram](https://www.instagram.com/abs)
+- [Luma](https://lu.ma/abstractchain)
 
 ## Ecosystem
 
