@@ -35,7 +35,6 @@ Cube Labs, together with the Pudgy Penguins team, are joining forces to contribu
 
 - [What is Abstract?](https://abs.xyz/blog/articles/what-is-abstract)
 - [How Abstract Works](https://docs.abs.xyz/how-abstract-works/architecture/layer-2s)
-- [What is Consumer Crypto?](https://abs.xyz/blog/articles/what-is-consumer-crypto)
 - [Technical Documentation](https://docs.abs.xyz/overview)
 - [Abstract Global Wallet](https://x.com/0xCygaar/status/1828897082314260689)
 
@@ -56,11 +55,9 @@ Cube Labs, together with the Pudgy Penguins team, are joining forces to contribu
 
 ## Educational Hub
 
-- What is a Blockchain?
-- What is a Smart Contract + Writing your first Smart Contract
-- What is DeFi?
-- What is a Zero Knowledge Proof?
+- [What is a Blockchain?](https://abs.xyz/blog/articles/what-is-a-blockchain)
 - [What is a Wallet](https://abs.xyz/blog/articles/what-is-a-wallet)
+- [What is Consumer Crypto?](https://abs.xyz/blog/articles/what-is-consumer-crypto)
 - [How Passkey Wallets Work](https://abs.xyz/blog/articles/how-passkey-wallets-work)
 
 ## Community and Socials
